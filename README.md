@@ -6,7 +6,7 @@ Vamos a realizar una tabla en la que se ordenen las asistencias a cada calse que
 ## Integrantes del equipo
 
 Eduardo Luque López(eduardo-luque)
-Lucía()
+Lucía Pardo()
 Gabriel()
 Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
 
